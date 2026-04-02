@@ -1,2 +1,10 @@
 # MaxNumber.sol
 This is a valuable reminder.
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract MaxNumber {
+    function max(uint a, uint b) public pure returns (uint) {
+        return a >= b ? a : b;
+    }
+}
