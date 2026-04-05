@@ -8,3 +8,4 @@ contract MaxNumber {
         return a >= b ? a : b;
     }
 }
+Initial commit
