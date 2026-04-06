@@ -9,3 +9,4 @@ contract MaxNumber {
     }
 }
 Initial commit
+Add basic contract structure
