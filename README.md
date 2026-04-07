@@ -10,3 +10,4 @@ contract MaxNumber {
 }
 Initial commit
 Add basic contract structure
+Fix minor bug in function
